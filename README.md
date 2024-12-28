@@ -27,17 +27,18 @@ pip install -r requirements.txt
 **Dataset**
 Place raw datasets in the Dataset_TaskA directory.
 Run the preprocessing pipeline (Submission.ipynb or multitasking-both-scaffold.py) to generate the preprocessed dataset in the preprocessed_dataset directory.
-Running the Code
+
+**Running the Code**
 For interactive exploration, use the Jupyter Notebook:
 jupyter notebook Submission.ipynb
 
 
 To execute the multitasking framework script:
-python multitasking-both-scaffold.py
+* python multitasking-both-scaffold.py
 
 
 Test the model with:
-python test.py
+* python test.py
 
 
 Results and Evaluation
