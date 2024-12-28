@@ -56,8 +56,8 @@ Install the dependencies using:
 1.  Place raw datasets in the Dataset_TaskA directory.
 
 2.  Run the preprocessing pipeline (Submission.ipynb or
-    > multitasking-both-scaffold.py) to generate the preprocessed
-    > dataset in the preprocessed_dataset directory.
+    multitasking-both-scaffold.py) to generate the preprocessed
+    dataset in the preprocessed_dataset directory.
 
 ### **Running the Code**
 
