@@ -1,4 +1,4 @@
-# Sem-Eval-2021-Task-A - Update in process
+# Sem-Eval-2021-Task-A 
 
 Multitasking NLP Framework for Task A
 This repository contains an implementation of a multitasking framework for Task A, designed for natural language processing (NLP) tasks. The framework includes data preprocessing, model training, and testing components to streamline multitask learning workflows.
