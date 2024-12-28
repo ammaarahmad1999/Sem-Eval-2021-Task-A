@@ -62,19 +62,16 @@ Install the dependencies using:
 ### **Running the Code**
 
 For interactive exploration, use the Jupyter Notebook:\
-jupyter notebook Submission.ipynb
 
-1.  
+1.  jupyter notebook Submission.ipynb
 
 To execute the multitasking framework script:\
-python multitasking-both-scaffold.py
 
-2.  
+2.  python multitasking-both-scaffold.py
 
 Test the model with:\
-python test.py
 
-3.  
+3.  python test.py
 
 ## **Results and Evaluation**
 
