@@ -48,7 +48,7 @@ components to streamline multitask learning workflows.
 
 Install the dependencies using:
 
-[pip install -r requirements.txt]{.mark}
+```pip install -r requirements.txt```
 
 ### **Dataset**
 
@@ -62,15 +62,15 @@ Install the dependencies using:
 
 For interactive exploration, use the Jupyter Notebook:
 
-1.  jupyter notebook Submission.ipynb
+```jupyter notebook Submission.ipynb```
 
 To execute the multitasking framework script:
 
-2.  python multitasking-both-scaffold.py
+```python multitasking-both-scaffold.py```
 
 Test the model with:
 
-3.  python test.py
+```python test.py```
 
 ## **Results and Evaluation**
 
