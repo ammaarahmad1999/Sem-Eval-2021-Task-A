@@ -1,4 +1,5 @@
 **Multitasking NLP Framework for Task A**
+
 This repository contains an implementation of a multitasking framework for Task A, designed for natural language processing (NLP) tasks. The framework includes data preprocessing, model training, and testing components to streamline multitask learning workflows.
 Repository Structure
 Dataset_TaskA: Directory containing the raw dataset files for Task A.
@@ -9,6 +10,7 @@ multitasking-both-scaffold.py: Python script implementing the multitasking frame
 test.py: Script for testing the model on unseen data or benchmark datasets.
 
 **Setup and Usage**
+
 Prerequisites
 Python 3.7 or higher
 Required Python libraries:
@@ -18,6 +20,7 @@ torch
 tqdm
 scikit-learn
 matplotlib
+
 Install the dependencies using:
 pip install -r requirements.txt
 
